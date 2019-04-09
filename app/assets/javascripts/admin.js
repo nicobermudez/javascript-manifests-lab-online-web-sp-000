@@ -1,2 +1,2 @@
 //= hello_world.js
-//= does+nothing.js
+//= does_nothing.js
