@@ -1,2 +1,5 @@
-//= hello_world.js
-//= does_nothing.js
+//= require jquery
+//= require jquery_ujs
+//= require turbolinks
+//= require hello_world
+//= require doesn_nothing
